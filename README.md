@@ -7,7 +7,7 @@ Robot Framework test scripts for login and logout functionality of the AI Dashbo
 3. Verify the Robot Framework installation with the command: `robot --version`
 4. Install SeleniumLibrary for web testing using the command: `pip install robotframework-seleniumlibrary`
 5. Once everything is installed, clone the repository for use
-6. If you want to work on VS Code, please install the **Robot Framework Language Server** extension
+6. If you want to use on VSCode, please install the **Robot Framework Language Server** extension
 7. Run the test script using the command: `robot TC-LoginLogout.robot` in the terminal
 
 **Test Results**
